@@ -8,3 +8,7 @@ author 'Pitrs'
 version '1.0.0'
 
 client_script 'natives.lua'
+
+dependencies {
+    'es_extended',  
+}
